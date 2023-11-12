@@ -1,6 +1,6 @@
 # O3DE-First Person Interaction Toolkit
 ![alt text](https://i.imgur.com/5GaxsZo.png)
-The 03DE-FirstPersonInteractionToolkit is a template project for first person adventure games built atop of Porcupine-Factory's [FirstPersonController gem](https://github.com/Porcupine-Factory/FirstPersonController) and using the [Open 3D Engine](https://github.com/o3de/o3de/). 
+The O3DE-FirstPersonInteractionToolkit is a template project for first person adventure games built atop of Porcupine-Factory's [FirstPersonController gem](https://github.com/Porcupine-Factory/FirstPersonController) and using the [Open 3D Engine](https://github.com/o3de/o3de/). 
 
 # Toolkit overview:
 
@@ -25,8 +25,8 @@ For a comprehensive setup guide please see [Projects/SetupGuide.pdf](https://git
 
 # License:
 
-The 03DE-FirstPersonInteractionToolkit is licensed under the [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/FAQ/).
+The O3DE-FirstPersonInteractionToolkit is licensed under the [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/FAQ/).
 
 # Special Thanks:
 
-This project would not be possible without the generous help and advising from Eric Kuzmenko & NanaYellen, creators of the 03DE first person controller gem, and the 03DE Discord Community. Shoutout to Kepler - keplercodes & AJ - theoneabis for the debugging help.
+This project would not be possible without the generous help and advising from Eric Kuzmenko & NanaYellen, creators of the O3DE first person controller gem, and the O3DE Discord Community. Shoutout to Kepler - keplercodes & AJ - theoneabis for the debugging help.
