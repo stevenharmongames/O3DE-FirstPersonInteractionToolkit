@@ -10,7 +10,7 @@ For a comprehensive setup guide please see [Projects/SetupGuide.pdf](https://git
 [![click to play demo video](https://i.imgur.com/S1qEOv3.png)](https://youtu.be/kQ5ckXGn9xE)
 
 # Mechanics included:
-
+![overview gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxxcGo4Y3gyODZoZTA2emZiNTZ1N215NjVycmhnbXQzeWJocjA0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpsPFuHom0A16yceuz/source.gif)
 * Modular interaction system with dynamic UI crosshair / popup text anims / object highlight
 * Pickup, inspect (rotate), throw object, and return to original position
 * Physics based doors that can be open, closed, and locked
