@@ -7,6 +7,8 @@ The 03DE-FirstPersonInteractionToolkit is a template project for first person ad
 In this sample project, there's a variety of simple documented script canvas scripts for various interactions as well as some template art assets for level design prototyping.
 For a comprehensive setup guide please see [Projects/SetupGuide.pdf](https://github.com/stevenharmongames/03DE-FirstPersonInteractionToolkit/blob/5b745fe87137040d9203c669841bc4c1e3ceee0f/Projects/SetupGuide.pdf)
 
+[![click to play demo video](https://i.imgur.com/S1qEOv3.png)](https://youtu.be/kQ5ckXGn9xE)
+
 # Mechanics included:
 
 * Modular interaction system with dynamic UI crosshair / popup text anims / object highlight
