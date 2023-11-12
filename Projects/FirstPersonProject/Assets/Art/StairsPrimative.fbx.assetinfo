@@ -1,0 +1,82 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{BB89893B-CAF9-5341-91EC-B29ECF142283}",
+            "name": "StairsPrimative",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.StairCase",
+                    "RootNode.StairCase.DefaultMaterial",
+                    "RootNode.StairCase.UVMap",
+                    "RootNode.StairCase.custom_properties",
+                    "RootNode.StairCase.transform"
+                ],
+                "unselectedNodes": [
+                    "RootNode"
+                ]
+            },
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "DefaultMaterial"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "StairsPrimative",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.StairCase",
+                    "RootNode.StairCase.DefaultMaterial",
+                    "RootNode.StairCase.UVMap",
+                    "RootNode.StairCase.custom_properties",
+                    "RootNode.StairCase.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{9C38C0E3-D5AB-54CF-9457-74AC8C26D6A5}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_StairsPrimative_F5EC7B36_8587_5B4B_9961_5DDC6ABE42BC_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.StairCase"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{F5EC7B36-8587-5B4B-9961-5DDC6ABE42BC}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Assets/Art/StairsPrimative_fbx.procprefab",
+            "id": "{35315E47-08FD-5E42-84D4-9BE2E64FBA18}"
+        }
+    ]
+}

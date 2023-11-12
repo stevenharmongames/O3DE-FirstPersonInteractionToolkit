@@ -1,0 +1,78 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{FBA6ED95-F70F-5154-9CFE-007FC2895B1B}",
+            "name": "steel_ladder",
+            "NodeSelectionList": {
+                "unselectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.steel_ladder"
+                ]
+            },
+            "export method": 2,
+            "PrimitiveAssetParams": {
+                "PrimitiveShapeTarget": 2
+            },
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "Entire object"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "steel_ladder",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.steel_ladder"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{894E1853-3759-506A-9784-ABCC59F0E6B8}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_steel_ladder_D90F62B7_4FE4_5594_AC60_6ED9EC713170_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.steel_ladder"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{D90F62B7-4FE4-5594-AC60-6ED9EC713170}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Assets/Art/steel_ladder_fbx.procprefab",
+            "id": "{F5312F9C-CBB6-50EA-BE4A-D769A4C26D0A}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{9E14140A-7AB5-519C-B799-9611550BCA68}",
+            "name": "TestPage",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.TestPage",
+                    "RootNode.TestPage.M_TestPage",
+                    "RootNode.TestPage.UVMap",
+                    "RootNode.TestPage.custom_properties",
+                    "RootNode.TestPage.transform"
+                ],
+                "unselectedNodes": [
+                    "RootNode"
+                ]
+            },
+            "export method": 1,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "M_TestPage"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "TestPage",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.TestPage",
+                    "RootNode.TestPage.M_TestPage",
+                    "RootNode.TestPage.UVMap",
+                    "RootNode.TestPage.custom_properties",
+                    "RootNode.TestPage.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{E79AFFE3-6580-5EE2-9C3D-8275868ECDB2}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_TestPage_CF641DEC_26FE_5D88_8561_5D8A8D8A952D_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.TestPage"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{CF641DEC-26FE-5D88-8561-5D8A8D8A952D}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Assets/Art/TestPage_fbx.procprefab",
+            "id": "{6F8D2430-4953-557B-9236-814F7BA13EA0}"
+        }
+    ]
+}

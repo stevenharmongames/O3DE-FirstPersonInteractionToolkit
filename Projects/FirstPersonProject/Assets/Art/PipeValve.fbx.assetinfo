@@ -1,0 +1,114 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{85DB779F-8EE1-59DC-8BF2-60F886523736}",
+            "name": "PipeValve",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.Pipes"
+                ],
+                "unselectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.Pipes.Valve"
+                ]
+            },
+            "TriangleMeshAssetParams": {
+                "MergeMeshes": false
+            },
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "M_Pipe"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "PipeValve",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.Pipes",
+                    "RootNode.Pipes.Valve"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{F766ECF2-8375-5585-862A-05CD8763154A}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_PipeValve_6E42CD70_3054_50E0_9233_667AF33B67FF_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.Pipes"
+                ],
+                "unselectedNodes": [
+                    "RootNode.Pipes.Valve"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{6E42CD70-3054-50E0-9233-667AF33B67FF}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_PipeValve_3EE15D01_E172_5BA4_83DD_4C70D04DF422_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.Pipes.Valve"
+                ],
+                "unselectedNodes": [
+                    "RootNode.Pipes"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{3EE15D01-E172-5BA4-83DD-4C70D04DF422}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Assets/Art/PipeValve_fbx.procprefab",
+            "id": "{18FF45FC-AF69-5A61-A235-3C32FA8EF710}"
+        }
+    ]
+}

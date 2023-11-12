@@ -1,0 +1,24 @@
+{
+    "materialType": "@projectroot@/Cache/Intermediate Assets/materials/types/standardpbr_generated.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+        ],
+        "baseColor.textureMap": "T_Pipes_Diff.png",
+        "baseColor.textureMapUv": "Unwrapped",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "metallic.factor": 0.7599999904632568,
+        "opacity.factor": 1.0,
+        "roughness.factor": 0.6600000262260437,
+        "specularF0.factor": 0.7400000095367432
+    }
+}

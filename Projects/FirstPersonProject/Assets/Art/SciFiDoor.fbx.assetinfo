@@ -1,0 +1,195 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{8A6C1BE1-6ED8-5706-B57C-0E3E9465506C}",
+            "name": "SciFiDoor",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.Doorframe"
+                ],
+                "unselectedNodes": [
+                    {},
+                    "RootNode.DoorL",
+                    "RootNode.DoorR"
+                ]
+            },
+            "TriangleMeshAssetParams": {
+                "MergeMeshes": false
+            },
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "M_ScifiDoor"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "SciFiDoor",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.DoorL",
+                    "RootNode.DoorR",
+                    "RootNode.Doorframe"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{43A65A0C-47B5-5BC6-B53B-0795E72C24FF}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_SciFiDoor_AD9138DA_17CA_54D3_A1BA_72620CCC9A84_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.Doorframe"
+                ],
+                "unselectedNodes": [
+                    "RootNode.DoorL",
+                    "RootNode.DoorR"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{AD9138DA-17CA-54D3-A1BA-72620CCC9A84}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_SciFiDoor_FCBBBB0E_B6EB_5695_A1DF_C61A66F79D21_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.DoorL"
+                ],
+                "unselectedNodes": [
+                    "RootNode.DoorR",
+                    "RootNode.Doorframe"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{FCBBBB0E-B6EB-5695-A1DF-C61A66F79D21}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_SciFiDoor_DD05EB89_C8ED_54B7_A5A7_ED215D56F85A_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.DoorR"
+                ],
+                "unselectedNodes": [
+                    "RootNode.DoorL",
+                    "RootNode.Doorframe"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{DD05EB89-C8ED-54B7-A5A7-ED215D56F85A}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Assets/Art/SciFiDoor_fbx.procprefab",
+            "id": "{0C8A0D1F-03C0-5F08-860F-41B3E1483EBD}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{EE436648-32A6-4512-A78B-E3919582ED07}",
+            "name": "SciFiDoor-1",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.DoorL"
+                ],
+                "unselectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.DoorR",
+                    "RootNode.Doorframe"
+                ]
+            },
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "M_ScifiDoor"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{A58738E6-4F60-4911-BF9A-F170CFD8B696}",
+            "name": "SciFiDoor-2",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.DoorR"
+                ],
+                "unselectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.DoorL",
+                    "RootNode.Doorframe"
+                ]
+            },
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "M_ScifiDoor"
+                    }
+                ]
+            }
+        }
+    ]
+}

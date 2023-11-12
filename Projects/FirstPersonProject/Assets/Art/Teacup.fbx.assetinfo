@@ -1,0 +1,83 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{D251C9ED-7A0A-542D-8D31-C80A2932E443}",
+            "name": "Teacup",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.Teacup",
+                    "RootNode.Teacup.DefaultMaterial",
+                    "RootNode.Teacup.UVMap",
+                    "RootNode.Teacup.custom_properties",
+                    "RootNode.Teacup.transform"
+                ],
+                "unselectedNodes": [
+                    "RootNode"
+                ]
+            },
+            "export method": 1,
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "DefaultMaterial"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "Teacup",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.Teacup",
+                    "RootNode.Teacup.DefaultMaterial",
+                    "RootNode.Teacup.UVMap",
+                    "RootNode.Teacup.custom_properties",
+                    "RootNode.Teacup.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{C2F88C20-1E77-5B2F-90F7-D30248787641}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_Teacup_4181B395_636B_59EC_866A_7F4D094157B5_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.Teacup"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{4181B395-636B-59EC-866A-7F4D094157B5}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Assets/Art/Teacup_fbx.procprefab",
+            "id": "{F0201D9F-162D-52C3-AA6C-7EA5734CC086}"
+        }
+    ]
+}

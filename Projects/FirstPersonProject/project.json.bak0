@@ -1,0 +1,46 @@
+{
+    "project_name": "FirstPersonProject",
+    "version": "1.0.0",
+    "project_id": "{250F200B-38F7-4780-8EDC-51297D565B38}",
+    "origin": "The primary repo for FirstPersonProject goes here: i.e. http://www.mydomain.com",
+    "license": "What license FirstPersonProject uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "FirstPersonProject",
+    "summary": "A short description of FirstPersonProject.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "FirstPersonProject"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "FirstPersonProject",
+    "gem_names": [
+        "FirstPersonProject",
+        "Atom",
+        "AudioSystem",
+        "AWSCore",
+        "CameraFramework",
+        "Compression",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EditorPythonBindings",
+        "EMotionFX",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "PhysX",
+        "PrimitiveAssets",
+        "PrefabBuilder",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WhiteBox"
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{890D61A3-B342-593D-B5BF-285DCA4329D8}",
+            "name": "ElevatorPost",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ElevatorPost_001",
+                    "RootNode.ElevatorPost_001.ButtonExt",
+                    "RootNode.ElevatorPost_001.ButtonExt.Button",
+                    "RootNode.ElevatorPost_001.ButtonExt_001",
+                    "RootNode.ElevatorPost_001.ButtonExt_001.Button_001"
+                ],
+                "unselectedNodes": [
+                    {},
+                    "RootNode"
+                ]
+            },
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "DefaultMaterial"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "ElevatorPost",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.ElevatorPost_001",
+                    "RootNode.ElevatorPost_001.ButtonExt",
+                    "RootNode.ElevatorPost_001.ButtonExt.Button",
+                    "RootNode.ElevatorPost_001.ButtonExt_001",
+                    "RootNode.ElevatorPost_001.ButtonExt_001.Button_001"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{5EEC2835-34D8-5201-AF71-32E51B1D645D}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ElevatorPost_799C0454_0397_5E6D_8087_6F3AB3DC8C95_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ElevatorPost_001.ButtonExt_001.Button_001"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ElevatorPost_001",
+                    "RootNode.ElevatorPost_001.ButtonExt",
+                    "RootNode.ElevatorPost_001.ButtonExt.Button",
+                    "RootNode.ElevatorPost_001.ButtonExt_001"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{799C0454-0397-5E6D-8087-6F3AB3DC8C95}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ElevatorPost_E30B5A04_843E_56CD_9C9D_7000F6A0A521_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ElevatorPost_001.ButtonExt.Button"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ElevatorPost_001",
+                    "RootNode.ElevatorPost_001.ButtonExt",
+                    "RootNode.ElevatorPost_001.ButtonExt_001",
+                    "RootNode.ElevatorPost_001.ButtonExt_001.Button_001"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{E30B5A04-843E-56CD-9C9D-7000F6A0A521}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ElevatorPost_D959F995_1A4A_5D11_8828_DC576AF2FBE3_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ElevatorPost_001.ButtonExt_001"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ElevatorPost_001",
+                    "RootNode.ElevatorPost_001.ButtonExt",
+                    "RootNode.ElevatorPost_001.ButtonExt.Button",
+                    "RootNode.ElevatorPost_001.ButtonExt_001.Button_001"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{D959F995-1A4A-5D11-8828-DC576AF2FBE3}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ElevatorPost_EAA28A7B_C903_5C93_BC42_787DE0FD1B02_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ElevatorPost_001.ButtonExt"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ElevatorPost_001",
+                    "RootNode.ElevatorPost_001.ButtonExt.Button",
+                    "RootNode.ElevatorPost_001.ButtonExt_001",
+                    "RootNode.ElevatorPost_001.ButtonExt_001.Button_001"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{EAA28A7B-C903-5C93-BC42-787DE0FD1B02}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_ElevatorPost_E03D822A_91C8_59A8_A631_C07614B91BA2_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.ElevatorPost_001"
+                ],
+                "unselectedNodes": [
+                    "RootNode.ElevatorPost_001.ButtonExt",
+                    "RootNode.ElevatorPost_001.ButtonExt.Button",
+                    "RootNode.ElevatorPost_001.ButtonExt_001",
+                    "RootNode.ElevatorPost_001.ButtonExt_001.Button_001"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{E03D822A-91C8-59A8-A631-C07614B91BA2}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Assets/Art/ElevatorPost_fbx.procprefab",
+            "id": "{D1F662BA-34D8-5D4E-A434-026A09FA80EE}"
+        }
+    ]
+}

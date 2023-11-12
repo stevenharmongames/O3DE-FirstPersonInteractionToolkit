@@ -1,0 +1,89 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{8F6E4CFC-6C60-5F0C-8181-1FC5AE96CD3E}",
+            "name": "Slide",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.Slide",
+                    "RootNode.Slide.DefaultMaterial",
+                    "RootNode.Slide.UVMap",
+                    "RootNode.Slide.custom_properties",
+                    "RootNode.Slide.transform"
+                ],
+                "unselectedNodes": [
+                    "RootNode"
+                ]
+            },
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "DefaultMaterial",
+                        "MaterialAsset": {
+                            "assetId": {
+                                "guid": "{EF76347C-319F-584E-9DDE-A06D328F4304}",
+                                "subId": 1
+                            },
+                            "assetHint": "physx/glass.physicsmaterial"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "Slide",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.Slide",
+                    "RootNode.Slide.DefaultMaterial",
+                    "RootNode.Slide.UVMap",
+                    "RootNode.Slide.custom_properties",
+                    "RootNode.Slide.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{C8C3DD43-EA92-56E3-BA24-009D194D7EC9}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_Slide_F621AB57_9D1C_5124_ACD9_C0FDB097B8D5_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.Slide"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{F621AB57-9D1C-5124-ACD9-C0FDB097B8D5}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Assets/Art/Slide_fbx.procprefab",
+            "id": "{667988FD-FEBD-58E5-8FDC-39ACAFDDF922}"
+        }
+    ]
+}

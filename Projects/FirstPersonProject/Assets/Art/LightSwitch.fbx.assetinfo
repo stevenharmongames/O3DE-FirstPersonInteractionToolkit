@@ -1,0 +1,115 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{2E550C84-8C6B-590F-AEC6-23E297217749}",
+            "name": "LightSwitch",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.light_switch"
+                ],
+                "unselectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.light_switch.Switch"
+                ]
+            },
+            "export method": 2,
+            "PrimitiveAssetParams": {
+                "PrimitiveShapeTarget": 2
+            },
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "DefaultMaterial"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "LightSwitch",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.light_switch",
+                    "RootNode.light_switch.Switch"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{9347E267-A977-53A5-9228-D881E1678254}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_LightSwitch_9D4E6B59_3F22_50C8_A221_5A176F121FAB_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.light_switch"
+                ],
+                "unselectedNodes": [
+                    "RootNode.light_switch.Switch"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{9D4E6B59-3F22-50C8-A221-5A176F121FAB}"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_LightSwitch_92DF381A_D975_5839_8D7E_DD7E8454CE9A_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.light_switch.Switch"
+                ],
+                "unselectedNodes": [
+                    "RootNode.light_switch"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{92DF381A-D975-5839-8D7E-DD7E8454CE9A}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Assets/Art/LightSwitch_fbx.procprefab",
+            "id": "{4F99C459-BA00-5E26-B803-0C5D5912A038}"
+        }
+    ]
+}
