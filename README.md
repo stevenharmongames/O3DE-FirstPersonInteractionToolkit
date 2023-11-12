@@ -29,4 +29,4 @@ The 03DE-FirstPersonInteractionToolkit is licensed under the [MPL 2.0](https://w
 
 # Special Thanks:
 
-This project would not be possible without the generous help and advising from Eric Kuzmenko, creator of the 03DE first person controller gem, and the 03DE Discord Community.
+This project would not be possible without the generous help and advising from Eric Kuzmenko & NanaYellen, creators of the 03DE first person controller gem, and the 03DE Discord Community. Shoutout to Kepler - keplercodes & AJ - theoneabis for the debugging help.
