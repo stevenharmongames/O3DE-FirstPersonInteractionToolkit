@@ -1,10 +1,11 @@
 # 03DE-First Person Interaction Toolkit
 ![alt text](https://i.imgur.com/5GaxsZo.png)
-The 03DE-FirstPersonInteractionToolkit is a template project for first person adventure games built atop of Porcupine-Factory's FirstPersonController gem (https://github.com/Porcupine-Factory/FirstPersonController) and using the Open 3D Engine (https://github.com/o3de/o3de/). 
+The 03DE-FirstPersonInteractionToolkit is a template project for first person adventure games built atop of Porcupine-Factory's [FirstPersonController gem](https://github.com/Porcupine-Factory/FirstPersonController) and using the [Open 3D Engine](https://github.com/o3de/o3de/). 
 
 # Toolkit overview:
 
 In this sample project, there's a variety of simple documented script canvas scripts for various interactions as well as some template art assets for level design prototyping.
+For a comprehensive setup guide please see [Projects/SetupGuide.pdf](https://github.com/stevenharmongames/03DE-FirstPersonInteractionToolkit/blob/5b745fe87137040d9203c669841bc4c1e3ceee0f/Projects/SetupGuide.pdf)
 
 # Mechanics included:
 
@@ -22,7 +23,7 @@ In this sample project, there's a variety of simple documented script canvas scr
 
 # License:
 
-The 03DE-FirstPersonInteractionToolkit is licensed under the MPL 2.0. (https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
+The 03DE-FirstPersonInteractionToolkit is licensed under the [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/FAQ/).
 
 # Special Thanks:
 
