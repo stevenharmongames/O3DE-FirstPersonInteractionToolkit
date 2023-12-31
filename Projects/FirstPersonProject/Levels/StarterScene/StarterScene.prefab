@@ -1773,6 +1773,7 @@
                             "Index": 1
                         },
                         "Trigger": true,
+                        "InSceneQueries": false,
                         "Position": [
                             0.0,
                             0.0,
@@ -4361,6 +4362,7 @@
                     "Id": 3649408574303999458,
                     "ColliderConfiguration": {
                         "Trigger": true,
+                        "InSceneQueries": false,
                         "MaterialSlots": {
                             "Slots": [
                                 {
@@ -15061,7 +15063,7 @@
                             -0.02458634227514267
                         ],
                         "Rotate": [
-                            90.00000762939453,
+                            90.0,
                             0.0,
                             0.0
                         ],

@@ -13,7 +13,7 @@
         "FirstPersonProject"
     ],
     "icon_path": "preview.png",
-    "engine": "o3de-sdk",
+    "engine": "o3de",
     "external_subdirectories": [
         "Gem"
     ],

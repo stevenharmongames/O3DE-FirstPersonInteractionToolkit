@@ -7,7 +7,7 @@
                         "Layers": {
                             "LayerNames": [
                                 "Default",
-                                "moving_platform",
+                                "Platform",
                                 {},
                                 {},
                                 {},
@@ -87,6 +87,15 @@
                                         "Mask": 0
                                     },
                                     "ReadOnly": true
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{05D3561A-FBC6-48DF-A5BB-B872AD14EB30}"
+                                    },
+                                    "Name": "Moving Platform",
+                                    "Group": {
+                                        "Mask": 18446744073709551614
+                                    }
                                 }
                             ]
                         }
