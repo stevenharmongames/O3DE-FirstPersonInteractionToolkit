@@ -32,7 +32,7 @@ All of the interactions are done via mouse left or right click.
 
 ## Project Highlights
 
-[![click to play demo video](https://i.imgur.com/S1qEOv3.png)](https://youtu.be/kQ5ckXGn9xE)
+[![Play Overview Video](https://img.youtube.com/vi/kQ5ckXGn9xE/0.jpg)](https://www.youtube.com/watch?v=kQ5ckXGn9xE)
 
 * **Modular interaction system** with dynamic UI crosshair / popup text anims / object highlight
 * **Pickup**, inspect (rotate), throw object, and return to original position
@@ -46,11 +46,14 @@ All of the interactions are done via mouse left or right click.
 * **Trampoline** (based on incoming velocity, applies opposite upward force to objects / characters)
 * **Slide** (no script, just weeeeeee!)
 
-### Screenshots
-
-![screenshot](https://i.imgur.com/5GaxsZo.png)
+### Screenshot
 
 ![screenshot](doc/screenshot-1.png?raw=true)
+
+### Cool Projects Using Toolkit Showcase
+
+Maksym Kokoiev's Wwise Integration
+[![Play Maksym's Video](https://img.youtube.com/vi/rtb-BUbvnEQ/0.jpg)](https://www.youtube.com/watch?v=rtb-BUbvnEQ)
 
 # Special Thanks
 
