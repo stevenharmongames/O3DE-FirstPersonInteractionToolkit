@@ -53,6 +53,7 @@ All of the interactions are done via mouse left or right click.
 ### Cool Projects Using Toolkit Showcase
 
 Maksym Kokoiev's Wwise Integration
+
 [![Play Maksym's Video](https://img.youtube.com/vi/rtb-BUbvnEQ/0.jpg)](https://www.youtube.com/watch?v=rtb-BUbvnEQ)
 
 # Special Thanks
